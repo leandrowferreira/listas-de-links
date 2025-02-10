@@ -53,6 +53,9 @@ Relação de links presentes na apresentação realizada no dia 10/02/2025 na ET
 ## Aprenda Git
 [https://git-scm.com/book/pt-br/v2](https://git-scm.com/book/pt-br/v2)
 
+## Discord da comunidade PHP PE
+[https://discord.gg/FvwnasXs](https://discord.gg/FvwnasXs)
+
 
 ## Como ~~se livrar do Windows~~ instalar o Debian
 [https://www.youtube.com/watch?v=Owr-PGxFBQE](https://www.youtube.com/watch?v=Owr-PGxFBQE)
