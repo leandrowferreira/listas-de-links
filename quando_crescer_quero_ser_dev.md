@@ -1,5 +1,10 @@
 # Quando eu crescer, quero ser dev
 
+Relação de links presentes na apresentação realizada no dia 10/02/2025 na ETE Porto Digital.
+
+
+---
+
 
 ## O analista de sistemas feliz
 [https://g1.globo.com/goias/noticia/2013/02/analista-de-sistemas-vira-garcom-e-supera-depressao-hoje-sou-feliz.html](https://g1.globo.com/goias/noticia/2013/02/analista-de-sistemas-vira-garcom-e-supera-depressao-hoje-sou-feliz.html)
