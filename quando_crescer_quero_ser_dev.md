@@ -49,6 +49,14 @@ Relação de links presentes na apresentação realizada no dia 10/02/2025 na ET
 ### Média salarial por linguagem
 [https://pesquisa.codigofonte.com.br/2024#languages](https://pesquisa.codigofonte.com.br/2024#languages)
 
+## Pesquisa Jetbrains 2024
+
+### Linguagens de programação mais usadas
+[https://www.jetbrains.com/lp/devecosystem-2024/#KeDHWJ](https://www.jetbrains.com/lp/devecosystem-2024/#KeDHWJ)
+
+### Ambiente para o qual aplicações são mais desenvolvidas
+[https://www.jetbrains.com/lp/devecosystem-2024/#sw_app_execution](https://www.jetbrains.com/lp/devecosystem-2024/#sw_app_execution)
+
 
 ## Aprenda Git
 [https://git-scm.com/book/pt-br/v2](https://git-scm.com/book/pt-br/v2)
